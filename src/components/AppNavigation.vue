@@ -7,7 +7,7 @@
                     <div class="w-8 h-8 bg-gradient-to-br from-teal-200 to-teal-400 rounded-lg flex items-center justify-center">
                         <MessageSquare class="w-5 h-5 text-teal-700 font-bold" />
                     </div>
-                    <span class="text-xl font-bold text-teal-700">Akksi</span>
+                    <span class="text-xl font-bold text-teal-700">Cyrene</span>
                 </div>
 
                 <!-- Desktop Navigation -->
