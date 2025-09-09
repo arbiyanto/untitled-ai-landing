@@ -41,6 +41,9 @@
             </div>
         </div>
     </nav>
+
+    <!-- Invisible spacer to push content below fixed navigation -->
+    <div class="h-16"></div>
 </template>
 
 <script setup>

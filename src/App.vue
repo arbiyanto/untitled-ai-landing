@@ -3,7 +3,7 @@
         <AppNavigation />
 
         <!-- Hero Section -->
-        <section class="relative min-h-screen flex items-center justify-center overflow-hidden">
+        <section class="relative min-h-screen flex items-center justify-center overflow-hidden pt-16 lg:pt-0">
             <!-- Sophisticated Background Effects -->
             <div class="absolute inset-0 bg-gradient-to-br from-gray-50 via-white to-slate-50"></div>
 
